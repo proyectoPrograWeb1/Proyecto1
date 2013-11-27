@@ -1,0 +1,17 @@
+{
+
+	"configuracion": {
+
+		"database_host" : "localhost",
+ 		"database_name" : "universidad",
+		"database_user" : "root",
+		"database_pass" : "",
+		"email_from" : "info@utn.ac.cr",
+		"email_from_name" : "UTN",
+		"email_smtp_host" : "smtp.gmail.com",
+		"email_smtp_port" : "465",
+		"email_smtp_user" : "carlosgarague@gmail.com",
+		"email_smtp_pass" : "Carlesa0306",
+		"email_batch_limit" : "1"
+	}
+}
