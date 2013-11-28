@@ -108,7 +108,7 @@
 					$query = "INSERT INTO notification_sent (student_id, test_id) VALUES ('$id_studid', '$id_test');";
 					$envEmail->eviar();
 				}
-	            $cont ++;
+	            $cont =+ 1;
 	        }else{
 
 	            echo "El registro no existe";
